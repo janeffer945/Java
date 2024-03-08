@@ -6,8 +6,11 @@ public class convert {
        byte n = (byte)k;
        int num = 8;
        num = num +1;
-       num ++; //increment
+       num ++; //post_increment
        num += 1; //decrement
+       num--; //decrement
+       ++num; //pre_increment
+
 
        System.out.println( num); 
     }
