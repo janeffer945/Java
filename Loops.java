@@ -37,7 +37,7 @@ public class Loops{
         // int r  = 5;
         
         
-        for( int r=4;r>=1;--r )
+        for( int r=0;r<=5;++r )
         {
             System.out.println("hi " + r);
          
