@@ -14,20 +14,33 @@
 //         System.out.println("bye5");
 //     }
 // }
+// public class Loops{
+//     public static void main (String[] args){
+
+//         int r  = 5;
+        
+//         do{ 
+//            System.out.println("hello " + r);
+//             --r;
+
+//         }
+//         while(r>=4 );
+//         {
+//             System.out.println("hi " + r);
+          
+//         }
+//     }
+// }
 public class Loops{
     public static void main (String[] args){
 
-        int r  = 5;
+        // int r  = 5;
         
-        do{ 
-           System.out.println("hello " + r);
-            --r;
-
-        }
-        while(r>=4 );
+        
+        for( int r=4;r>=1;--r )
         {
             System.out.println("hi " + r);
-          
+         
         }
     }
 }
