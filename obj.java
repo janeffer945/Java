@@ -1,11 +1,10 @@
 class calculator{
         // int result = sumc + sumx;
-public int add(){
+public int add(int sumc7, int sumx4){
+    int result = sumc7 + sumx4; 
     
-        System.out.println("Hello");
-        return 0;
-    }
-    
+        return result;
+    }   
 
 }
 class obj{
@@ -13,7 +12,8 @@ class obj{
 int sumx = 4;
     int sumc = 7;
     calculator calc = new calculator();
-    calc.add();
+   int result = calc.add(7, 4);
+   System.out.println(result);
 
     }
 }
