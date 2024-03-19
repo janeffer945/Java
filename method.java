@@ -6,5 +6,7 @@ public class method {
 }
  
 class computer{
-    
+    public void music(){
+        System.out.println();
+    }
 }
