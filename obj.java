@@ -43,6 +43,9 @@ return n1+ n2;
 public class obj {
 
     public static void main(String a[]){
+        calculator obj = new calculator();
+         int r = obj.add(8 , 10); 
+         System.out.println(r);
 
     }
 }
