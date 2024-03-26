@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e742a6d-fdaa-46c6-b9b5-3f96b83858eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JAVASPRINGBOOT/WigMarket/src/main/resources/application-dev.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Angular-ip2/github-search/.browserslistrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Angular-ip2/github-search/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Angular-ip2/github-search/.gitignore" beforeDir="false" />
@@ -130,6 +131,7 @@
       <change beforePath="$PROJECT_DIR$/../../Angular_Support/tsconfig.app.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Angular_Support/tsconfig.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Angular_Support/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../News/virtual/bin/Activate.ps1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../News/virtual/bin/activate" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../News/virtual/bin/activate.csh" beforeDir="false" />
@@ -10471,14 +10473,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "content",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;content&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
